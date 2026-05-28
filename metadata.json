@@ -1,0 +1,8 @@
+
+{
+  "name": "Kariyer Mimarı - AI Destekli Kariyer Yolculuğu",
+  "description": "Türkiye pazarı için özel olarak tasarlanmış, CV Roast, ATS analizi, yan gelir fırsatları ve tersine mühendislik ile güçlendirilmiş bütüncül bir kariyer geliştirme platformu.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
